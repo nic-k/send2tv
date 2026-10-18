@@ -83,4 +83,4 @@ https://JOUW-HA-ADRES/api/webhook/JOUW-WEBHOOK-ID
 
 ## Licentie
 
-Voeg hier een licentie toe, bijvoorbeeld [MIT](https://choosealicense.com/licenses/mit/).
+GPL-3.0 license
